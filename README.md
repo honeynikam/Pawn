@@ -7,13 +7,13 @@
         <col>
     </colgroup>
     <tr>
-        <td>This</td>
-        <td>That</td>
-        <td>The other</td>
+        <td>POINTS</td>
+        <td>Queen</td>
+        <td>Bishop</td>
     </tr>
     <tr>
-        <td>Ladybird</td>
-        <td>Locust</td>
-        <td>Lunch</td>
+        <td>chess</td>
+        <td>9</td>
+        <td>3</td>
     </tr>
 </table>
