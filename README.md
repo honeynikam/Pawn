@@ -49,3 +49,7 @@
 <h2>Relative URLs</h2>
 <p><a href="html_images.asp">HTML Images</a></p>
 <p><a href="/css/default.asp">CSS Tutorial</a></p>
+<div class="shadowbox">
+  <p>Here's a very interesting note displayed in a
+  lovely shadowed box.</p>
+</div>
